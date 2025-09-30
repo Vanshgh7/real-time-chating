@@ -18,7 +18,7 @@ This application lets users join a chatroom and send messages in real-time. The 
 
 1. Clone the repository:
     ```
-    git clone https://github.com/Vanshgh7/real-time-chating--c
+    git clone https://github.com/Vanshgh7/real-time-chating
     cd real-time-chating--c
     ```
 2. Compile both server and client:
