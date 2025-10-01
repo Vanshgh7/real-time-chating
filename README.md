@@ -30,6 +30,8 @@ This application lets users join a chatroom and send messages in real-time. The 
 
 ### Running the Server
 
+-open cocal.com ,use terminal and exicute below commanads
+
 - To start the server on port 80 (default):
     ```
     ./server
